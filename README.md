@@ -39,7 +39,7 @@ Arquitetura Hexagonal:
 
 ### Tutorial
 
-1. Necessario cassandra: http://www.apache.org/dyn/closer.lua/cassandra/3.11.2/apache-cassandra-3.11.2-bin.tar.gz
+1. Necessario cassandra: http://www.apache.org/dyn/closer.lua/cassandra/3.11.2/apache-cassandra-3.11.2-bin.tar.gz  
 Feito o download, descompacte o arquivo, os diretórios mais importantes são:
 
 ● bin: contém os scripts de interação com o Cassandra.
@@ -69,7 +69,10 @@ CREATE KEYSPACE keyspace_sicredi
 
 
 ## TODO
-Iniciar testes unitarios
+Testes unitarios
+Adicionar Swagger. 
+Conectar ao Splunk. 
+Provisionar na AWS/OpenShift. 
 
 
 <!-- CONTACT -->
