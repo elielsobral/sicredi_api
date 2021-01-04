@@ -11,6 +11,8 @@
   <p align="center">
     Projeto desenvolvido em 12h (até o momento)
     <br />
+  
+  
   </p>
 </p>
 
@@ -39,7 +41,9 @@ Arquitetura Hexagonal:
 
 ### Tutorial
 
-1. Necessario cassandra: http://www.apache.org/dyn/closer.lua/cassandra/3.11.2/apache-cassandra-3.11.2-bin.tar.gz  
+<h5> Collection: Encontra-se na pasta principal do Projeto)</h5>
+
+Necessario cassandra: http://www.apache.org/dyn/closer.lua/cassandra/3.11.2/apache-cassandra-3.11.2-bin.tar.gz  
 Feito o download, descompacte o arquivo, os diretórios mais importantes são:
 
 ● bin: contém os scripts de interação com o Cassandra.
