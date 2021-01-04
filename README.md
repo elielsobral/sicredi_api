@@ -69,9 +69,12 @@ CREATE KEYSPACE keyspace_sicredi
 
 
 ## TODO
-Testes unitarios
+Testes unitarios. 
+
 Adicionar Swagger. 
+
 Conectar ao Splunk. 
+
 Provisionar na AWS/OpenShift. 
 
 
